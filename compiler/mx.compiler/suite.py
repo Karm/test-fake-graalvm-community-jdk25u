@@ -1,7 +1,7 @@
 suite = {
-  "version" : "25.0.5",
+  "version" : "25.0.5.1",
   "release" : True,
-  "ASM_9.7.1" : {
-    "digest" : "sha512:4767b01603dad5c79cc1e2b5f3722f72b1059d928f184f446ba11badeb1b381b",
+  "ASM_9.8" : {
+    "digest" : "sha512:cbd250b9c698a48a835e655f5f5262952cc6dd1a434ec0bc3429a9de41f2ce08",
   },
 }
